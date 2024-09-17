@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning curso do alura e curso de ialiano no Duolingo.
 - 💞️ I’m looking to collaborate on pericia tecnologica.
 - 📫 How to reach me: 00001114574934sp@al.educacao.sp.gov.br
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronouns: Ela/Ele
 - ⚡ Fun fact: "A verdadeira arte é apenas um reflexo dos sentimentos de quem a contempla"
 
 <!---
